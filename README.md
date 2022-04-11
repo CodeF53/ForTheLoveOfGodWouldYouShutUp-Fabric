@@ -8,7 +8,7 @@ This mod seeks to make redstone less annoying, it disables sounds from noteblock
 Note Blocks will still notify allay/sculk despite not making a sound.
 
 ## Video
-[![Youtube Video Trailer of Mod](https://user-images.githubusercontent.com/37855219/162813520-fa8d40c2-8c3f-4b66-a8d1-37c28eec525a.png)](http://www.youtube.com/watch?v=5xwHkLPgvtQ "Video Title")
+[![Youtube Video Trailer of Mod](https://user-images.githubusercontent.com/37855219/162813520-fa8d40c2-8c3f-4b66-a8d1-37c28eec525a.png)](http://www.youtube.com/watch?v=OQ2EmVMYguU "Video Title")
 
 ## Code Change explained
 Originally, the code for playing a note looked like this:
