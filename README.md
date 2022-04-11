@@ -1,4 +1,5 @@
 ![icon](https://user-images.githubusercontent.com/37855219/162797793-e483ce7e-91aa-4037-aa6d-5de7fee3b3fe.png)
+[![icon](https://images-ext-1.discordapp.net/external/pYzZHZYp1-Y_B4rfTKgrJgD-qsjkHEEkMpegvuphQ_E/https/raw.githubusercontent.com/Prospector/badges/master/modrinth-badge-72h-padded.png)](https://modrinth.com/mod/ftlogwysu)
 # For the Love of God Would You Shut Up
 Reverts the change made in 22w13a where noteblocks make sound even when there is a block ontop of them.
 
@@ -7,7 +8,7 @@ This mod seeks to make redstone less annoying, it disables sounds from noteblock
 Note Blocks will still notify allay/sculk despite not making a sound.
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQ2EmVMYguU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Video Trailer of Mod](https://user-images.githubusercontent.com/37855219/162813520-fa8d40c2-8c3f-4b66-a8d1-37c28eec525a.png)](http://www.youtube.com/watch?v=5xwHkLPgvtQ "Video Title")
 
 ## Code Change explained
 Originally, the code for playing a note looked like this:
