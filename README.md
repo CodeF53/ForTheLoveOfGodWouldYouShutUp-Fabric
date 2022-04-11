@@ -42,7 +42,6 @@ private void playNote(@Nullable Entity entity, World world, BlockPos pos) {
 +       world.addSyncedBlockEvent(pos, this, 0, 0); // plays sound
 +   }
 -   world.addSyncedBlockEvent(pos, this, 0, 0);
-    world.addSyncedBlockEvent(pos, this, 0, 0);
     world.emitGameEvent(entity, GameEvent.NOTE_BLOCK_PLAY, pos); // notifies allay, warden, and skulk sensors
 }
 ```
