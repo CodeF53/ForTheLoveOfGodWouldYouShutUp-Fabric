@@ -3,13 +3,13 @@
   "id": "revertnoteblock",
   "version": "${version}",
 
-  "name": "For The Love of God Would You Shut Up",
+  "name": "For the Love of God Would You Shut Up",
   "description": "22w13a made it so noteblocks make sound even when there is a block ontop of them.\nThis reverts that.",
   "authors": [
-    "Me!"
+    "F53"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://ko-fi.com/f53dev",
     "sources": "https://github.com/CodeF53/ForTheLoveOfGodWouldYouShutUp-Fabric"
   },
 
@@ -28,8 +28,7 @@
 
   "depends": {
     "fabricloader": ">=0.13.3",
-    "fabric": "*",
-    "minecraft": "1.18.x",
+    "minecraft": ">=1.18.2",
     "java": ">=17"
   }
 }
